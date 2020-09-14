@@ -1,0 +1,19 @@
+{
+  "name": "urlutils",
+  "version": "1.0.0",
+  "description": "URL utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aer0s/urlUtils.git"
+  },
+  "author": "Jason Noll",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aer0s/urlUtils/issues"
+  },
+  "homepage": "https://github.com/aer0s/urlUtils#readme"
+}
