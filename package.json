@@ -4,7 +4,8 @@
   "description": "URL utilities",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "ava",
+    "watch": "ava --watch"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/aer0s/urlUtils/issues"
   },
-  "homepage": "https://github.com/aer0s/urlUtils#readme"
+  "homepage": "https://github.com/aer0s/urlUtils#readme",
+  "devDependencies": {
+    "ava": "^3.12.1"
+  }
 }

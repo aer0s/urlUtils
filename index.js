@@ -1,1 +1,5 @@
-import { GETfiler } from "./modules/getfiler.js"
+const GETfiler = require("./modules/getfiler.js")
+
+module.exports = {
+    GETfiler: GETfiler
+}
