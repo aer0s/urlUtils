@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/aer0s/urlUtils#readme",
   "devDependencies": {
-    "ava": "^3.12.1"
+    "alpine-test-utils": "^0.2.0",
+    "alpinejs": "^2.8.0",
+    "ava": "^3.12.1",
+    "node-fetch": "^2.6.1"
   }
 }

@@ -1,5 +1,5 @@
-const GETfiler = require("./modules/getfiler.js")
+const Resource = require("./modules/resource.js");
 
 module.exports = {
-    GETfiler: GETfiler
-}
+  Resource: Resource,
+};
